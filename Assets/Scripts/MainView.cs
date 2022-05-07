@@ -7,7 +7,7 @@ public class MainView : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // hihi   
+        // hihi2
         
     }
 
