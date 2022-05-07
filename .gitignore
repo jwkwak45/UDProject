@@ -39,4 +39,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+<<<<<<< HEAD
 UserSettings/Layouts/default-2021.dwlt
+=======
+UserSettings/Layouts/default-2021.dwlt
+>>>>>>> f5f3b93d2b28a1d118d61742c3608154131512bc
